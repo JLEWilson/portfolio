@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+.column{
+  float: left;
+  width: 35%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px;
+  border-width: 10px;
+  border-style: double none;
+  padding: 3px;
+  box-sizing: border-box;
+}
