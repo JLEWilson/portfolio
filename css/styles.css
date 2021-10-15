@@ -2,16 +2,22 @@ body{
   text-align: center;
 }
 .column{
-  
   background-color: khaki;
   float: left;
-  width: 50%;
+  width: 44%;
   border: 2px;
   border-top-width: 6px;
   border-bottom-color: black;
-  border-style:double none dashed none;
-  padding-left: 10px;
+  border-style:double none ridge none;
+  box-shadow: 5px 5px 3px rgb(122, 107, 107);
+  margin-right: 5%;
   box-sizing: border-box;
+}
+#col_1{
+  margin-left: 3%;
+}
+#col_2{
+  margin-right: 3%;
 }
 .projectList{
   margin-left: 20px;
@@ -19,8 +25,8 @@ body{
   text-align: left;
 }
 .aboutProject{
-  margin-left: 20px;
-  margin-right: 20px;
+  padding-right: 5%;
+  padding-left: 5%;
   text-align: left;
 }
 li{
