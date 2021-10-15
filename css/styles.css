@@ -1,15 +1,24 @@
+  /*.
+.color1 {color: #2356a4;}
+.color2 {color: #297cc1;}
+.color3 {color: #2ba5c8;}
+.color4 {color: #39cccb;}
+.color5 {color: #cbeaea;} */
 body{
   text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #297cc1;
 }
+
 .column{
-  background-color: khaki;
+  background-color: #39cccb;
   float: left;
   width: 44%;
   border: 2px;
   border-top-width: 6px;
   border-bottom-color: black;
   border-style:double none ridge none;
-  box-shadow: 5px 5px 3px rgb(122, 107, 107);
+  box-shadow: 8px 8px 3px #112a50;
   margin-right: 5%;
   margin-bottom: 20px;
   box-sizing: border-box;
@@ -34,7 +43,7 @@ li{
   margin-bottom: 5px;
   border-width: 1;
   border: 1px;
-  border-bottom: 3px;
+  border-bottom: 2px;
   border-style: none none solid none;
 }
 #listItem_1{
@@ -53,16 +62,46 @@ li{
   padding-left: 5%;
   text-align: left;
 }
+h4{
+  background-color: #cbeaea;
+  border-radius: 100%;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
 .aboutMe{
-  padding-top: 300px;
-  margin-top: 300px
+  padding-top: 200px;
+  margin-top: 300px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#pixelJacobInfo{
+  font-weight: 600;
+  font-size: 12px;
 }
 .aboutMeColumn{
   margin-left: 10%;
   float: left;
   width: 20%;
+  background-color: #39cccb;
+  border-radius: 50%;
+  padding-bottom: 20px;
+}
+#blurb{
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+#backgroundColumn{
+  padding-bottom: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 h5{
+  font-size: 18px;
+}
+#background{
   text-align: center;
 }
 #hobbies{
