@@ -19,6 +19,7 @@ body{
   border-bottom-color: black;
   border-style:double none ridge none;
   box-shadow: 8px 8px 3px #112a50;
+  padding-right: 5%;
   margin-right: 5%;
   margin-bottom: 20px;
   border-radius: 20%;
