@@ -34,7 +34,7 @@ li{
   margin-bottom: 5px;
   border-width: 1;
   border: 1px;
-  border-bottom: olive;
+  border-bottom: 3px;
   border-style: none none solid none;
 }
 #listItem_1{
@@ -61,4 +61,27 @@ li{
   margin-left: 10%;
   float: left;
   width: 20%;
+}
+h5{
+  text-align: center;
+}
+#hobbies{
+  list-style: none;
+  text-align: center;
+  padding-right: 40px;
+  margin: auto;
+}
+.hobbiesLi
+{
+  border-style: none;
+}
+#skills{
+  list-style: none;
+  text-align: center;
+  padding-right: 40px;
+  margin: auto;
+}
+.skillsLi
+{
+  border-style: none;
 }
