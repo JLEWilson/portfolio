@@ -55,5 +55,10 @@ li{
 }
 .aboutMe{
   padding-top: 300px;
-  margin-top: 300px;
+  margin-top: 300px
+}
+.aboutMeColumn{
+  margin-left: 10%;
+  float: left;
+  width: 20%;
 }
