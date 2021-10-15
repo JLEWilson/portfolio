@@ -86,23 +86,24 @@ h4{
   font-size: 12px;
 }
 .aboutMeColumn{
-  margin-right: 5%;
+  margin-left: 10%;
   float: left;
   width: 20%;
   background-color: #39cccb;
   border-radius: 50%;
-  padding: 4%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
 }
-#backgroundColumn{
+#aboutMeColumn1{
   margin-left: 100%;
   background-color: blue;
 }
-
 #blurb{
   font-weight: 600;
   margin-bottom: 30px;
 }
-
 h5{
   font-size: 18px;
 }
