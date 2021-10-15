@@ -7,7 +7,7 @@
 body{
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  background-color: #297cc1;
+  background-color: #cbeaea;
 }
 
 .column{
@@ -21,6 +21,7 @@ body{
   box-shadow: 8px 8px 3px #112a50;
   margin-right: 5%;
   margin-bottom: 20px;
+  border-radius: 20%;
   box-sizing: border-box;
 }
 #col_1{
@@ -63,9 +64,9 @@ li{
   text-align: left;
 }
 h4{
-  background-color: #cbeaea;
+  background-color: #297cc1;
   border-radius: 100%;
-  width: 30%;
+  width: 100px;
   margin: auto;
   margin-bottom: 20px;
   padding-bottom: 10px;
@@ -87,16 +88,17 @@ h4{
   width: 20%;
   background-color: #39cccb;
   border-radius: 50%;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 #blurb{
   font-weight: 600;
   margin-bottom: 30px;
 }
 #backgroundColumn{
+  margin-left: 8%;
   padding-bottom: 40px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 h5{
   font-size: 18px;
