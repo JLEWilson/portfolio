@@ -20,7 +20,7 @@ _A portfolio containing completed projects done with the guidance of Epicodus as
 
 ## Setup/Installation Requirements
 
-* _From the repository located here: https://github.com/JLEWilson/portfolio click code_
+* _From the repository located (here)[https://github.com/JLEWilson/portfolio] and click code_
 * _Copy the link_
 * _In your terminal navigate to the directory you would like to store the project_
 * _In your terminal enter "git clone" followed by the link_
@@ -28,7 +28,7 @@ _A portfolio containing completed projects done with the guidance of Epicodus as
 
 ## OR
 
-*_View at jlewilson.github.io/portfolio_
+* _View at jlewilson.github.io/portfolio_
 
 
 ## Known Bugs
@@ -36,7 +36,7 @@ _A portfolio containing completed projects done with the guidance of Epicodus as
 * _None_
 
 
-## License
+## Licence - [MIT](https://opensource.org/licenses/MIT)
 
 _If you have any issues feel free to contact me here: jacobleeeugenewilson@gmail.com_
 
